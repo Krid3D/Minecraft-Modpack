@@ -2,7 +2,7 @@
                              Minecraft Java Edition Link: https://www.minecraft.net/en-us/get-minecraft
 
 Steps:
-1: Go to you user.
+1: Go to your user
 2: Find appdata
 3: Find Roaming folder
 4: Find .minecraft folder
